@@ -20,4 +20,4 @@ The main dependencies for running the code are:
 
 ## Reference
 
-* Esmaeili, A., Demolliens, M., Viersen, M., Ziaeemehr, A., Isbaine, F., Huguet, P., ... & Hashemi, M. (2025). Probabilistic inference of social presence across brain scales reveals enhanced synaptic efficacy. Communications Biology, 8(1), 1608. https://doi.org/10.1038/s42003-025-08971-3
+* Esmaeili, A., Demolliens, M., Viersen, M., Ziaeemehr, A., Isbaine, F., Huguet, P., Zaal, F., Jirsa, V., Boussaoud, D., & Hashemi, M. (2025). Probabilistic inference of social presence across brain scales reveals enhanced synaptic efficacy. Communications Biology, 8(1), 1608. https://doi.org/10.1038/s42003-025-08971-3
